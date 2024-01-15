@@ -3,6 +3,7 @@ package tech.bingulhan.jdk10;
 public class VarKeyWord {
 
     public static void main(String[] args) {
+
         var age = 18;
         var username = "BingulHan";
         var isMan = true;
